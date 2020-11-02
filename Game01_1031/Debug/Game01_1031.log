@@ -1,0 +1,4 @@
+﻿  sanxiqi.c
+E:\比特学习\放ma的地方\Cexerse.CW\Game01_1031\sanxiqi.c(53,17): warning C4013: “rand”未定义；假设外部返回 int
+E:\比特学习\放ma的地方\Cexerse.CW\Game01_1031\sanxiqi.c(151,7): warning C4013: “srand”未定义；假设外部返回 int
+  Game01_1031.vcxproj -> E:\比特学习\放ma的地方\Cexerse.CW\Game01_1031\Debug\Game01_1031.exe
